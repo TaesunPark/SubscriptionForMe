@@ -79,7 +79,7 @@
 ## Service Explanation Video
 
 
-[![vidio](https://www.youtube.com/vi/zo-a8DplZGs/0.jpg)](https://www.youtube.com/watch?v=zo-a8DplZGs)
+[![vidio](https://i9.ytimg.com/vi/zo-a8DplZGs/mq2.jpg?sqp=CJCB7YcG&rs=AOn4CLAP58is5mSpMSHC26VPPdqmDSrwqg)](https://www.youtube.com/watch?v=zo-a8DplZGs)
 
 ## Interview Video
 
