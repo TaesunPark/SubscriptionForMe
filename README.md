@@ -5,7 +5,7 @@
 
 2020 마이데이터 BI 기획·개발 공모전 최우수상 수상 (데이터산업진흥원장상)
 
-![%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled.png](%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/59998914/126846204-35d2b5bd-d513-4675-a689-a5e2a4a16f75.png)
 
 ## **💡 Background**
 
@@ -47,22 +47,22 @@
 
 ## 1. 구독 관리 기능
 
-![%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled%201.png](%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/59998914/126846206-083d8f2d-a4bc-4630-ba3b-f3827a458344.png)
 
 ## 2. 구독 추천 기능
 
-![%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled%202.png](%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/59998914/126846210-da080f20-0ef5-4d95-b46c-f118ba094ab9.png)
 
 ## 3. 데이터 내려받기 기능
 
-![%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled%203.png](%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/59998914/126846214-72a6fc34-e7fb-42cb-abfc-27810ea6cfd5.png)
 
-![%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled%204.png](%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/59998914/126846194-9c3410cd-fe80-4225-bae9-af9a08694095.png)
 
 ## ⏳ Service Flow
 
 
-![%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled%205.png](%F0%9F%92%B0%20Subscription-For-Me%2006086f4331d54d298e1c9f7f765fa91c/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/59998914/126846202-8722c5e5-dd2e-4f3e-b02f-5fdc528f8dcb.png)
 
 - 사용자의 계좌 데이터, 앱 사용시간, 사용자 정보 및 관심사 데이터 이용.
 - 사용자 맞춤 구독 추천 및 관리 서비스 제공.
