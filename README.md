@@ -78,8 +78,9 @@
 
 ## Service Explanation Video
 
-[![vidio](https://i9.ytimg.com/vi/zo-a8DplZGs/mq2.jpg?sqp=CJCB7YcG&rs=AOn4CLAP58is5mSpMSHC26VPPdqmDSrwqg)](https://www.youtube.com/watch?v=zo-a8DplZGs)
-
+<a href="https://www.youtube.com/watch?v=zo-a8DplZGs" target="_blank">
+ <img src="https://i9.ytimg.com/vi/zo-a8DplZGs/mq2.jpg?sqp=CJCB7YcG&rs=AOn4CLAP58is5mSpMSHC26VPPdqmDSrwqg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 ## Interview Video
 
 [![vidio](https://i.ytimg.com/an_webp/0Q_40XrPiwg/mqdefault_6s.webp?du=3000&sqp=CPDZ7IcG&rs=AOn4CLAdv6EK9Ph_4LeESHn0n8QyJjxjPQ)](https://www.youtube.com/watch?v=0Q_40XrPiwg)
